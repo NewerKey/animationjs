@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  block-size: 100%;
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-color: #a3d5d3;
+}
+
+#hero-dog {
+  position: absolute;
+  top: 200px;
+  left: 10px;
+  height: 600px;
+}
+
+#villain {
+  position: absolute;
+  top: 90px;
+  left: 800px;
+  height: 500px;
+}
+
+#lightning {
+  position: absolute;
+  top: 320px;
+  left: 290px;
+  height: 120px;
+  width: 120px;
+}
